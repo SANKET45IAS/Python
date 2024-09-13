@@ -1,0 +1,7 @@
+#(Initial to n-1)
+a = range(10)
+print(a)
+b=list(range(10))
+print(b)
+c = list(range(5,10))
+print(c)
